@@ -18,8 +18,8 @@
 - After find all files, run command before to delete them:
     ```python3
             python3 Cache_Log/del_Cache_Log.py 
-        ```
-        **or**
+    ```
+    **or**
     ```python
             python Cache_Log/del_Cache_Log.py 
     ```
